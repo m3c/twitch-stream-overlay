@@ -1,5 +1,5 @@
 # Twitch Stream Overlay
-This is a simple Twitch.tv stream overlay made with HTML and Javascript. It grabs your most recent follower and subscriber, and also the user who has gifted you the most bits. Customize it with some CSS to make it your own.
+This is a simple Twitch.tv stream overlay made with HTML and Javascript. It grabs your most recent follower and subscriber, and also the user who has gifted you the most bits.
 
 The script was made using Twitch's new Helix API.
 
